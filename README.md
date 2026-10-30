@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Keramik
+# 🏭 Keramik
 
 **Kurumsal Site · Epicenter of Every Move**
 
